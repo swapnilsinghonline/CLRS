@@ -1,4 +1,5 @@
-# CLRS
-Implementation of Algorithm in CLRS.
-Chapter 2
-Insertion Sort
+# CLRS  
+Implementation of Algorithm in CLRS.  
+Chapter 2 
+-Insertion Sort  
+-Linear Seaech  
